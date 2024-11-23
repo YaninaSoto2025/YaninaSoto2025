@@ -24,14 +24,15 @@ PYTHON - Para la limpieza de datos y graficos
 <br>
 
 <h3>😍 En mi tiempo libre me gusta:</h3>
-Realizar salidas en familia , como por ejemplo ir al cine o al rio o simplemente pasar tiempo en nuestro hogar.
+Realizar salidas en familia , como ir al cine o al rio o simplemente pasar tiempo en nuestro hogar.
 
 
 <h3>🛠 Estoy interesada en:</h3>
 Adquirir mi primer trabajo en Analisis de Datos para mejorar mis conocimientos y aprender del dia a dia laboral aplicando todo lo aprendido 
 
-<h3> ¡ Visita mi perfil de linkedin o enviame un Email !</h3>
+<h3> ¡ Visita mi perfil de linkedin o enviame un Email,tambien puedes visitar mi portafolio!</h3>
 
 📲  Informacion de contacto:
 Linkedin: https://www.linkedin.com/in/yanina-soto/
 Email: sotoyanina542@gmail.com
+Portafolio :https://portafoliosotoyanina.my.canva.site/
