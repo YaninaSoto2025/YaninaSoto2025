@@ -8,19 +8,21 @@ tambien he realizado cursos sobre Front end Developer en la UTN,
 Cuando no estoy realizando practicas en los analisis y limpieza de datos en mi PC o practicando mi ingles,
 estoy pasando tiempo junto a mi familia!
 
-<h3>✔️ Actualmente he finalizado mis estudios en Henry - Data Analytics </h3>
+<h3>✔️ Actualmente estoy en busqueda laboral- Data Analytics </h3>
+
+SKILLS:
 He utilizado las siguientes herramientas para desarrollar diversos proyectos :
 
 <br>
 JIRA - para organizar las tareas
 <br>
-GOOGLE SHEETS - fue la herramienta con la que comenzamos uno de los proyectos
+GOOGLE SHEETS /EXCEL - fueron  las herramientas con las que realice mis proyectos para comenzar a visualizar y limpiar datos
 <br>
 SQL SERVER - Para los procesos ETL
 <br>
-POWER BI - Para realizar metricas y visualizaciones ( dashboard)
+POWER BI - Para realizar metricas y visualizaciones ( dashboards )
 <br>
-PYTHON - Para la limpieza de datos y graficos
+PYTHON - Para realizar filtros, comprobaciones, la limpieza de datos y realizacion de graficos
 <br>
 
 <h3>😍 En mi tiempo libre me gusta:</h3>
