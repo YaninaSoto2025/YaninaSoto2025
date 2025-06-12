@@ -1,13 +1,10 @@
-![Portada del proyecto](assets/IMG-20250412-WA0001.jpg)
 
-
-https://github.com/YaninaSoto2025/YaninaSoto2025/blob/main/IMG-20250412-WA0001.jpg
 <h2>MI PERFIL</h2>
 
 
 Mi nombre es <strong> Yanina Soto </strong> vivo en Argentina
-Soy <strong> Analista de Datos </strong>, ESTOY EN BUSCA DE MI PRIMER EMPLEO EN IT
-tambien he realizado cursos sobre Front end Developer en la UTN y actualmente estoy cursando tecnicatura en desarrollo web full stack.
+Soy <strong> Analista de Datos </strong>, ESTOY EN BUSCA DE MI PRIMER EMPLEO EN IT<br>
+tambien he realizado cursos sobre Front end Developer y actualmente estoy cursando tecnicatura en desarrollo web full stack.
 
 
 MIS SKILLS:
