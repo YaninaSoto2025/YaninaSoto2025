@@ -11,15 +11,15 @@ MIS SKILLS:
 He utilizado las siguientes herramientas para desarrollar diversos proyectos :
 
 <br>
-JIRA - para organizar las tareas
+JIRA - para organizar las tareas grupales
 <br>
 GOOGLE SHEETS /EXCEL - fueron  las herramientas con las que realice mis proyectos para comenzar a visualizar y limpiar datos
 <br>
-SQL SERVER - Para los procesos ETL
+SQL SERVER - Para los procesos ETL y almacenamiento de las bases de datos, tambien para realizar el modelo entidad relacion.
 <br>
-POWER BI - Para realizar metricas y visualizaciones ( dashboards )
+POWER BI - Para visualizar datos, realizar metricas , realizar visualizaciones , realizar graficos y  analizar los datos con la obtencion de insights de alto impacto ( dashboards )
 <br>
-PYTHON - Para realizar filtros, comprobaciones, la limpieza de datos y realizacion de graficos
+PYTHON - Para realizar filtros, comprobaciones, la limpieza de datos y realizacion de graficos.
 <br>
 
 <h3>😍 En mi tiempo libre me gusta:</h3>
@@ -27,7 +27,7 @@ Realizar salidas en familia , como ir al cine  o simplemente pasar tiempo en nue
 
 
 <h3>🛠 Estoy interesada en:</h3>
-Adquirir mi primer trabajo en Analisis de Datos para mejorar mis conocimientos y aprender del dia a dia laboral aplicando todo lo aprendido y de aprender lo que sea necesario para mi perfil.
+Adquirir mi primer trabajo en Analisis de Datos para mejorar mis conocimientos y aprender del dia a dia laboral aplicando todo lo aprendido ,como asi tambien, aprender lo que sea necesario para mi perfil profesional.
 
 <h3> ¡ Visita mi perfil de linkedin o enviame un Email,tambien puedes visitar mi portafolio!</h3>
 
