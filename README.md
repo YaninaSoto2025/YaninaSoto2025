@@ -33,6 +33,6 @@ Adquirir mi primer trabajo en Analisis de Datos para mejorar mis conocimientos y
 <h3> ¡ Visita mi perfil de linkedin o enviame un Email,tambien puedes visitar mi portafolio!</h3>
 
 📲  Informacion de contacto:
-Linkedin: https://www.linkedin.com/in/yanina-soto/
-Email: sotoyanina542@gmail.com
-Portafolio :https://portafoliosotoyanina.my.canva.site/
+Linkedin: https://www.linkedin.com/in/yanina-soto/ <br>
+Email: sotoyanina542@gmail.com <br>
+Portafolio :https://portafoliosotoyanina.my.canva.site/ <br>
