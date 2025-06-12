@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="YaninaSoto2025/blob/main/IMG-20250412-WA0001.jpg" alt="Portada del proyecto" width="800"/>
-</p>
+![Portada del proyecto](assets/IMG-20250412-WA0001.jpg)
+
 
 https://github.com/YaninaSoto2025/YaninaSoto2025/blob/main/IMG-20250412-WA0001.jpg
 <h2>MI PERFIL</h2>
