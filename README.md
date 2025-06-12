@@ -21,6 +21,7 @@ POWER BI - Para visualizar datos, realizar metricas , realizar visualizaciones ,
 <br>
 PYTHON - Para realizar filtros, comprobaciones, la limpieza de datos y realizacion de graficos.
 <br>
+HTML - CSS - En cursos de Front end developer aprendi a utilizarlos para el desarrollo de sitios web.
 
 <h3>😍 En mi tiempo libre me gusta:</h3>
 Realizar salidas en familia , como ir al cine  o simplemente pasar tiempo en nuestro hogar.
