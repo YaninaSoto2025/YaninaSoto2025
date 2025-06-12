@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="main/IMG-20250412-WA0001.jpg" alt="Portada del proyecto" width="800"/>
+</p>
+
 https://github.com/YaninaSoto2025/YaninaSoto2025/blob/main/IMG-20250412-WA0001.jpg
 <h2>MI PERFIL</h2>
 
