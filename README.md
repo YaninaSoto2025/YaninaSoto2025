@@ -2,12 +2,12 @@
 <h2>MI PERFIL</h2>
 
 
-Mi nombre es <strong> Yanina Soto </strong> vivo en Argentina
+<h2>Mi nombre es <strong> Yanina Soto </strong> vivo en Argentina
 Soy <strong> Analista de Datos </strong>, ESTOY EN BUSCA DE MI PRIMER EMPLEO EN IT<br>
-tambien he realizado cursos sobre Front end Developer y actualmente estoy cursando tecnicatura en desarrollo web full stack.
+tambien he realizado cursos sobre Front end Developer y actualmente estoy cursando tecnicatura en desarrollo web full stack.</h2>
 
 
-MIS SKILLS:
+<h2>MIS SKILLS:</h2>
 He utilizado las siguientes herramientas para desarrollar diversos proyectos :
 
 <br>
