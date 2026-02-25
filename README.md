@@ -1,9 +1,9 @@
 # 💫 About Me:
-Mi nombre es Yanina Soto vivo en Argentina Soy Analista de Datos , ESTOY EN BUSCA DE MI PRIMER EMPLEO EN IT<br>tambien he realizado cursos sobre Front end Developer y actualmente estoy cursando tecnicatura en desarrollo web full stack.<br><br>😍 En mi tiempo libre me gusta:<br>Realizar salidas en familia , como ir al cine o simplemente pasar tiempo en nuestro hogar.<br>🛠 Estoy interesada en:<br>Adquirir mi primer trabajo en Analisis de Datos para mejorar mis conocimientos y aprender del dia a dia laboral aplicando todo lo aprendido ,como asi tambien, aprender lo que sea necesario para mi perfil profesional.
+Mi nombre es Yanina  vivo en Argentina y Soy Analista de Datos,tengo experiencia en limpieza de datos y tableros en Power Bi y he realizado documentacion y analisis funcional sobre la app empresarial en Beland, empresa en la cual trabajo.<br>tambien he realizado una tecnicatura en desarrollo web- Front end Developer y actualmente estoy cursando tecnicatura en desarrollo web full stack.<br><br>😍 En mi tiempo libre me gusta:<br>Realizar salidas en familia , como ir al cine o simplemente pasar tiempo en nuestro hogar.<br>🛠 Estoy interesada en:<br>Adquirir trabajo en Analisis de Datos para mejorar mis conocimientos y aprender del dia a dia laboral aplicando todo lo aprendido ,como asi tambien, aprender lo que sea necesario para mi perfil profesional.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yana_Soto_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yanina-soto/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sotoyanina542@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yanina-soto/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sotoyanina542@gmail.com) 
 
 # 💻 Tech Stack:
 POWER BI
@@ -24,7 +24,7 @@ POWER BI
 
 
 <h2>MIS SKILLS:</h2>
-He utilizado las siguientes herramientas para desarrollar diversos proyectos :
+He utilizado las siguientes herramientas en mi empleo y tambien para desarrollar diversos proyectos :
 
 <br>
 JIRA - para organizar las tareas grupales
@@ -41,6 +41,6 @@ HTML - CSS - En cursos de Front end developer aprendi a utilizarlos para el desa
 
 
 
-<h3> ¡ Visita mi perfil de linkedin o enviame un Email,tambien puedes visitar mi portafolio!</h3>
+<h3> ¡ Visita mi perfil de linkedin o enviame un Email,tambien puedes visitar mi portafolio donde tengo tableros realizados por mi en mi trabajo real y de mis proyectos!</h3>
 
 Portafolio :https://portafoliosotoyanina.my.canva.site/ <br>
